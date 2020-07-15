@@ -2,3 +2,6 @@ Adding line of text
 Entering 3 lines
 of text
 into txt file
+line 1
+line 2
+line3
