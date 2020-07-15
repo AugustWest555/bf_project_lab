@@ -1,3 +1,4 @@
+Adding line of text
 Entering 3 lines
 of text
 into txt file
